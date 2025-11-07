@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Content+Moderator+%7C+Community+Manager;Aspiring+Software+Developer;Building+safer+digital+spaces;Always+learning%2C+always+creating+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-[![GitHub followers](https://img.shields.io/github/followers/karlcamarodev?style=for-the-badge&logo=github&logoColor=white&labelColor=000&color=00D9FF)](https://github.com/karlcamarodev)
+[![GitHub followers](https://img.shields.io/github/followers/Karlcamarodev?style=for-the-badge&logo=github&logoColor=white&labelColor=000&color=00D9FF)](https://github.com/Karlcamarodev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karl-hervin-camaro-porta-15b443395)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camaroportakarlhervin@gmail.com)
 
@@ -72,8 +72,8 @@ Combining my experience with content creators and frontend development skills.
 
 `HTML5` `CSS3` `JavaScript` `Chart.js` `Glassmorphism Design`
 
-[![GitHub](https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karlcamarodev/tiktok-dashboard)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://karlcamarodev.github.io/tiktok-dashboard)
+[![GitHub](https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karlcamarodev/tiktok-dashboard)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://Karlcamarodev.github.io/tiktok-dashboard)
 
 ---
 
@@ -83,8 +83,8 @@ Earn XP, level up, and unlock achievements while staying productive!
 
 `JavaScript ES6+` `LocalStorage API` `CSS Animations` `OOP`
 
-[![GitHub](https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karlcamarodev/quest-manager)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://karlcamarodev.github.io/quest-manager)
+[![GitHub](https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karlcamarodev/quest-manager)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://Karlcamarodev.github.io/quest-manager)
 
 </div>
 
@@ -94,11 +94,11 @@ Earn XP, level up, and unlock achievements while staying productive!
 
 <div align="center">
 
-![Karl's GitHub stats](https://github-readme-stats.vercel.app/api?username=karlcamarodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+![Karl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karlcamarodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karlcamarodev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karlcamarodev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karlcamarodev&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Karlcamarodev&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
 
 </div>
 
@@ -181,7 +181,7 @@ Community    ██░░░░░░░░░░░░░░░░░░  10%
 
 [![Email](https://img.shields.io/badge/Email-camaroportakarlhervin@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camaroportakarlhervin@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Karl_Camaro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karl-hervin-camaro-porta-15b443395)
-[![GitHub](https://img.shields.io/badge/GitHub-@karlcamarodev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karlcamarodev)
+[![GitHub](https://img.shields.io/badge/GitHub-@Karlcamarodev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karlcamarodev)
 
 </div>
 
@@ -199,7 +199,7 @@ I don't just write code - I understand the **people** who use it. My background 
 
 ### ⭐ If you like my work, consider giving my repos a star! ⭐
 
-![Profile Views](https://komarev.com/ghpvc/?username=karlcamarodev&color=00D9FF&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Karlcamarodev&color=00D9FF&style=for-the-badge&label=Profile+Views)
 
 **Built with ❤️ and ☕ by Karl Camaro**
 
