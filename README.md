@@ -1,12 +1,28 @@
-# 👋 Hi there! I'm Karl Camaro
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Content+Moderator+%7C+Community+Manager;Aspiring+Software+Developer;Building+safer+digital+spaces;Always+learning%2C+always+creating+%F0%9F%9A%80)](https://git.io/typing-svg)
+# 👨‍💻 Karl Camaro
 
-[![GitHub followers](https://img.shields.io/github/followers/Karlcamarodev?style=for-the-badge&logo=github&logoColor=white&labelColor=000&color=00D9FF)](https://github.com/Karlcamarodev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karl-hervin-camaro-porta-15b443395)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camaroportakarlhervin@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=800&lines=Frontend+Developer+%7C+React+%26+Next.js;Community+Manager+%7C+500K%2B+Followers;Content+Moderator+%7C+AI+Specialist;Building+Modern+Web+Experiences+✨)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Karlcamarodev&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Karlcamarodev?style=for-the-badge&color=8b5cf6&labelColor=1a1b27" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Karlcamarodev?style=for-the-badge&color=c084fc&labelColor=1a1b27" alt="Stars"/>
+</p>
+
+```typescript
+const karlCamaro = {
+    location: "🇮🇹 Milan, Italy (from 🇵🇪 Peru)",
+    currentRole: "Frontend Developer & Community Manager",
+    company: "Freelance",
+    languages: ["Spanish 🇪🇸", "English 🇬🇧", "Italian 🇮🇹"],
+    codeLanguages: ["TypeScript", "JavaScript", "HTML", "CSS"],
+    frameworks: ["React", "Next.js", "Tailwind CSS"],
+    currentFocus: ["AI Integration", "Content Moderation", "Web3"],
+    communityReach: "500K+ followers",
+    funFact: "I turn coffee ☕ into code 💻"
+};
+```
 
 </div>
 
@@ -14,195 +30,289 @@
 
 ## 🚀 About Me
 
-```javascript
-const karl = {
-    location: "Varese, Italy 🇮🇹",
-    currentRole: "Content Moderator | Community Manager",
-    learning: ["JavaScript", "React", "Node.js"],
-    workingOn: "Building TikTok Analytics Dashboard 📊",
-    funFact: "I've helped TikTok creator agencies grow their communities! 🎯",
-    askMeAbout: ["community management", "content moderation", "web development"],
-    reachMe: "camaroportakarlhervin@gmail.com"
-};
-```
+> **Frontend Developer** crafting modern web experiences | **Community Manager** building engaged digital communities | **Content Moderator** ensuring safe online spaces
 
-### 💼 What I Do
-
-I'm a **digital communicator passionate about technology**, with hands-on experience helping **TikTok content creators and marketing agencies**. Currently transitioning into software development while combining my community management expertise with technical skills.
-
-- 🎯 **Content Moderation & Trust & Safety**: Managing communities of 50+ members with 95% conflict resolution rate
-- 💻 **Web Development**: Self-taught developer building real-world projects
-- 🤝 **Creator Economy**: Collaborated with TikTok agencies on content strategy and audience engagement
-- 🛡️ **Community Safety**: Expert in identifying harmful content and fostering positive spaces
+- 🔭 Currently building: **AI-powered content moderation tools** and **community management platforms**
+- 🌱 Learning: **Advanced Next.js 16**, **AI/ML Integration**, **Web3 Technologies**
+- 💼 Open to: **Frontend Development** and **Community Management** opportunities
+- 🎯 2025 Goals: Launch **5 production-ready projects** and grow community to **1M+ followers**
+- 💬 Ask me about: **React**, **Next.js**, **TypeScript**, **Community Building**, **Content Strategy**
+- 📫 Reach me: **karlcamaro.dev@gmail.com**
+- ⚡ Fun fact: I've managed communities with **500K+ combined followers** across platforms
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Featured Projects
 
 <div align="center">
 
-### Frontend
+### 🛡️ Content Guardian
+**AI-Powered Content Moderation Platform**
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://content-guardian-five.vercel.app)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karlcamarodev/content-guardian)
+
+Modern web application for real-time content analysis and moderation using AI. Features automated workflows, sentiment detection, and comprehensive moderation tools.
+
+**Tech Stack:** Next.js 14 · TypeScript · Tailwind CSS · AI Integration · Vercel
+
+**Key Features:**
+- ✨ Real-time content analysis with AI
+- 📊 Sentiment detection and analytics
+- 🤖 Automated moderation workflows
+- 🎨 Modern glassmorphism UI
+- 🌓 Dark/Light mode support
+- 📱 Fully responsive design
+
+---
+
+### 📊 TikTok Analytics Dashboard
+**Real-time Analytics & Insights Platform**
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://karlcamarodev.github.io/tiktok-dashboard/)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karlcamarodev/tiktok-dashboard)
+
+Interactive dashboard for tracking TikTok metrics and performance analytics with real-time data visualization.
+
+**Tech Stack:** HTML5 · CSS3 · JavaScript ES6+ · Chart.js · GitHub Pages
+
+**Key Features:**
+- 📈 Real-time metrics tracking
+- 📊 Interactive data charts
+- 👥 Audience insights and demographics
+- 💫 Glassmorphism design
+- 📱 Responsive layout
+
+---
+
+### 🎮 Quest Manager
+**Gamified Task Management System**
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://karlcamarodev.github.io/quest-manager/)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karlcamarodev/quest-manager)
+
+RPG-style task manager that transforms productivity into an engaging game experience with XP, levels, and achievements.
+
+**Tech Stack:** HTML5 · CSS3 · JavaScript ES6+ · LocalStorage
+
+**Key Features:**
+- ⚔️ XP and leveling system
+- 🏆 Achievement system
+- 🔥 Daily streak tracking
+- 🎯 Drag & drop interface
+- 📋 Subtask management
+- 📊 Progress visualization
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### Styling & UI
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+### Design Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### Learning
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
+## 📊 GitHub Statistics
 
 <div align="center">
 
-### 📊 TikTok Analytics Dashboard
-**Interactive dashboard for TikTok performance metrics**  
-Combining my experience with content creators and frontend development skills.
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Karlcamarodev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8b5cf6&icon_color=c084fc&text_color=a9b1d6&ring_color=8b5cf6" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Karlcamarodev&theme=tokyonight&hide_border=true&background=1a1b27&stroke=8b5cf6&ring=c084fc&fire=ec4899&currStreakLabel=a9b1d6" alt="GitHub Streak"/>
 
-`HTML5` `CSS3` `JavaScript` `Chart.js` `Glassmorphism Design`
-
-[![GitHub](https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karlcamarodev/tiktok-dashboard)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://Karlcamarodev.github.io/tiktok-dashboard)
-
----
-
-### 🎮 Quest - Gamified Task Manager
-**Task management app with RPG mechanics**  
-Earn XP, level up, and unlock achievements while staying productive!
-
-`JavaScript ES6+` `LocalStorage API` `CSS Animations` `OOP`
-
-[![GitHub](https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karlcamarodev/quest-manager)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://Karlcamarodev.github.io/quest-manager)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karlcamarodev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8b5cf6&text_color=a9b1d6" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karlcamarodev&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=8b5cf6&line=c084fc&point=ec4899" alt="Activity Graph"/>
 
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-![Karl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karlcamarodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karlcamarodev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Karlcamarodev&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Karlcamarodev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title_color=8b5cf6&icon_color=c084fc&text_color=a9b1d6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 🎯 What Makes Me Unique
+## 🌐 Languages
 
-### 🎨 Creative Background
-- Worked with **TikTok creator agencies**
-- Managed communities of **50+ members**
-- Improved engagement by **40%**
-- **95% conflict resolution** rate
+<div align="center">
 
-### 💻 Technical Growth
-- **200+ hours** of coding practice
-- **Self-taught** developer journey
-- Building **real-world projects**
-- Active in **dev communities**
+| Language | Proficiency | Experience |
+|:--------:|:-----------:|:----------:|
+| 🇪🇸 **Spanish** | Native | 20+ years |
+| 🇬🇧 **English** | Advanced (C1) | 10+ years |
+| 🇮🇹 **Italian** | Intermediate (B1) | 2+ years |
+
+</div>
 
 ---
 
-## 🎓 Continuous Learning
+## 🎯 Community Management Experience
 
-**Currently studying:**
-- ✅ freeCodeCamp: Responsive Web Design
-- 🔄 The Odin Project: Full Stack JavaScript
-- 🔄 Google Digital Garage: Digital Marketing
+<div align="center">
 
-**Daily Practice:**
-- 💻 Coding for 2-3 hours daily
-- 🧩 Solving algorithm challenges
-- 📚 Reading technical documentation
-- 🤝 Contributing to open source (soon)
+| Metric | Achievement |
+|--------|-------------|
+| 📱 **Total Reach** | 500K+ combined followers |
+| ⏱️ **Experience** | 7+ years in community management |
+| 🎯 **Platforms** | TikTok, Instagram, Discord, Telegram |
+| 💼 **Specialization** | Content Moderation & Brand Safety |
+| 📈 **Growth Rate** | Average 20% monthly increase |
+| 🛡️ **Moderation** | 10K+ content reviews |
+
+</div>
+
+### Key Achievements
+- ✅ Built and scaled communities from **0 to 100K+** followers
+- ✅ Implemented **automated moderation systems** reducing response time by 80%
+- ✅ Created **content strategies** that increased engagement by 150%
+- ✅ Managed **crisis situations** maintaining 95%+ positive sentiment
+- ✅ Developed **community guidelines** adopted by multiple organizations
 
 ---
 
-## 🌍 Languages
+## 🔥 Recent Activity
 
-| Language | Proficiency | Use Cases |
-|----------|-------------|-----------|
-| 🇪🇸 **Spanish** | Native | Daily communication |
-| 🇬🇧 **English** | Professional | Technical docs, coding |
-| 🇮🇹 **Italian** | Basic | Living in Italy |
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<div align="center">
+
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Karlcamarodev&custom_title=Karl's%20Contribution%20Graph&hide_border=true&bg_color=1a1b27&color=8b5cf6&line=c084fc&point=ec4899&area_color=c084fc&title_color=8b5cf6&area=true)
+
+</div>
 
 ---
 
-## 📊 Weekly Development Breakdown
+## 📫 Connect with Me
 
-```text
-JavaScript   ████████████░░░░░░░░  60%
-HTML/CSS     ██████░░░░░░░░░░░░░░  30%
-Learning     ████░░░░░░░░░░░░░░░░  20%
-Community    ██░░░░░░░░░░░░░░░░░░  10%
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-rho-lemon-o164oascnv.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karlcamaro)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karlcamarodev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karlcamaro.dev@gmail.com)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@karlcamaro)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/karlcamaro)
+
+</div>
+
+---
+
+## 💡 What I'm Working On
+
+<div align="center">
+
+```typescript
+const currentProjects = {
+    active: [
+        {
+            name: "AI Content Moderator Pro",
+            status: "In Development",
+            tech: ["Next.js 16", "OpenAI API", "PostgreSQL"],
+            progress: "60%",
+            launch: "Q1 2025"
+        },
+        {
+            name: "Community Dashboard v2",
+            status: "Planning",
+            tech: ["React", "TypeScript", "Firebase"],
+            progress: "20%",
+            launch: "Q2 2025"
+        }
+    ],
+    learning: [
+        "Advanced TypeScript Patterns",
+        "AI/ML Integration with Web Apps",
+        "Web3 & Blockchain Basics",
+        "Advanced Next.js Server Components"
+    ]
+};
 ```
 
----
-
-## 🏆 2025 Goals
-
-- [ ] 🎯 Land first developer role
-- [ ] 📱 Build 5 full-stack projects
-- [ ] 🌟 Contribute to 3 open source projects
-- [ ] 📚 Complete React certification
-- [ ] 🎓 Learn Node.js and MongoDB
-- [ ] 🤝 Connect with 100+ developers
+</div>
 
 ---
 
-## 🤝 Let's Connect!
+## 🎓 Skills & Expertise
 
 <div align="center">
 
-### 💼 Open to opportunities in:
-- Content Moderation & Trust & Safety
-- Community Management
-- Junior Frontend Development
-- Customer Support (Tech)
+### Technical Skills
 
-### 📫 Best way to reach me:
+| Skill | Level |
+|-------|-------|
+| React & Next.js | ⭐⭐⭐⭐⭐ |
+| TypeScript | ⭐⭐⭐⭐⭐ |
+| JavaScript ES6+ | ⭐⭐⭐⭐⭐ |
+| HTML5 & CSS3 | ⭐⭐⭐⭐⭐ |
+| Tailwind CSS | ⭐⭐⭐⭐⭐ |
+| Git & GitHub | ⭐⭐⭐⭐⭐ |
+| Responsive Design | ⭐⭐⭐⭐⭐ |
+| AI Integration | ⭐⭐⭐⭐ |
 
-[![Email](https://img.shields.io/badge/Email-camaroportakarlhervin@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camaroportakarlhervin@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karl_Camaro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karl-hervin-camaro-porta-15b443395)
-[![GitHub](https://img.shields.io/badge/GitHub-@Karlcamarodev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karlcamarodev)
+### Soft Skills
+
+| Skill | Level |
+|-------|-------|
+| Community Management | ⭐⭐⭐⭐⭐ |
+| Content Strategy | ⭐⭐⭐⭐⭐ |
+| Crisis Management | ⭐⭐⭐⭐⭐ |
+| Communication | ⭐⭐⭐⭐⭐ |
+| Problem Solving | ⭐⭐⭐⭐⭐ |
+| Team Collaboration | ⭐⭐⭐⭐⭐ |
 
 </div>
 
 ---
 
-## 💡 My Unique Value
+<div align="center">
 
-> "Combining empathy with technology to create safer digital spaces"
+### 💬 Quote of the Day
 
-I don't just write code - I understand the **people** who use it. My background in community management gives me a unique perspective on building user-centered applications that solve real problems.
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20with%20purpose,%20build%20with%20passion,%20scale%20with%20community&author=Karl%20Camaro)
 
 ---
 
-<div align="center">
+### 🎯 Life Philosophy
 
-### ⭐ If you like my work, consider giving my repos a star! ⭐
+> "Building technology that brings people together, one line of code at a time. 
+> From frontend development to community management, every interaction matters."
 
-![Profile Views](https://komarev.com/ghpvc/?username=Karlcamarodev&color=00D9FF&style=for-the-badge&label=Profile+Views)
+---
 
-**Built with ❤️ and ☕ by Karl Camaro**
+**Thanks for visiting! Let's build something amazing together! 🚀**
 
-*Last updated: November 2024*
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
